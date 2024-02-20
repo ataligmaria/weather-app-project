@@ -108,7 +108,8 @@ main {
 }
 
 .weather-forecast-temperatures-min {
-  opacity: 0.5;
+  opacity: 0.5px;
+  color: #9290c3;
 }
 
 .weather-forecast-temperatures {
